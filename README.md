@@ -7,3 +7,4 @@ ez
 lesz
 az
 csinaljuk
+meg
