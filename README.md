@@ -6,3 +6,4 @@ vagyok
 ez
 lesz
 az
+csinaljuk
